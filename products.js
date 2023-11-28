@@ -12,56 +12,56 @@ export const PRODUCTS = [
     {
         id:1,
         productName: "IPhone",
-        pricce: 999.0,
+        price: 999.0,
         productImage: product1,
 
     },
     {
         id:2,
         productName: "Macbook Pro 2022 (M1)",
-        pricce: 1900.0,
+        price: 1900.0,
         productImage: product2,
 
     },
     {
         id:3,
         productName: "Cannon M50 Camera",
-        pricce:699.0,
+        price:699.0,
         productImage: product3,
 
     },
     {
         id:4,
         productName: "WLS Van Gogh Denim Jacket",
-        pricce: 228.0,
+        price: 228.0,
         productImage: product4,
 
     },
     {
         id:5,
         productName: "LED Light Strips",
-        pricce: 19.99,
+        price: 19.99,
         productImage: product5,
 
     },
     {
         id:6,
         productName: "SPECTRUM LS TEE",
-        pricce: 68.0,
+        price: 68.0,
         productImage: product6,
 
     },
     {
         id:7,
         productName: "AUTO SERVICE SHIRT by Golf Wang",
-        pricce: 120.0,
+        price: 120.0,
         productImage: product7,
 
     },
     {
         id:8,
         productName: "DON'T TRIP UNSTRUCTURED HAT",
-        pricce: 40.0,
+        price: 40.0,
         productImage:product8,
 
     },
